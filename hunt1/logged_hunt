@@ -1,13 +1,7 @@
--add: treasure ID 1 by user casi
+-add: treasure ID 1 by user vlad
+-add: treasure ID 2 by user casi
 -list: treasures from Hunt hunt1
--view: treasure ID 1 by user casi
--add: treasure ID 2 by user vlad
+-remove_treasure: treasure ID 2 by user casi
 -list: treasures from Hunt hunt1
--remove_treasure: treasure ID 1 by user vlad
--list: treasures from Hunt hunt1
--add: treasure ID 1 by user casi
--remove_treasure: treasure ID 1 by user casi
--add: treasure ID 1 by user casi
--view: treasure ID 1 by user casi
--view: treasure ID 2 by user vlad
+-add: treasure ID 2 by user casi
 -list: treasures from Hunt hunt1
